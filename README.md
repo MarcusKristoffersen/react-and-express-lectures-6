@@ -5,10 +5,11 @@
   * [x] client project with parcel, react and react-dom react router
   * [x] server project with nodemon, express, body-parser, cookie-parser, dotenv
 * [x] husky + prettier
-* [ ] get endpoint in express
-* [ ] deploy to Heroku
-  * [ ] npm build => client npm install --include=dev && parcel && server npm install
-  * [ ] npm start => node server.js
+* [x] get endpoint in express
+* [x] deploy to Heroku
+  * [x] npm build => client npm install --include=dev && parcel && server npm install
+  * [x] npm start => node server.js
+* [ ] Serve react application from Express
 * [ ] GET /api/login from front page
   * [ ] Fetch data from server
   * [ ] Loading time
